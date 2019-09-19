@@ -1,0 +1,266 @@
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a870b"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"종로구","SGG_CD":"11010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a870c"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"중구","SGG_CD":"11020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a870d"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"성동구","SGG_CD":"11040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a870e"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"광진구","SGG_CD":"11050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a870f"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"용산구","SGG_CD":"11030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8710"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"동대문구","SGG_CD":"11060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8711"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"중랑구","SGG_CD":"11070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8712"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"성북구","SGG_CD":"11080"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8713"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"서울특별시","SGG_CD":"11000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8714"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"강북구","SGG_CD":"11090"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8715"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"도봉구","SGG_CD":"11100"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8716"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"노원구","SGG_CD":"11110"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8717"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"은평구","SGG_CD":"11120"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8718"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"서대문구","SGG_CD":"11130"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8719"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"구로구","SGG_CD":"11170"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a871a"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"금천구","SGG_CD":"11180"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a871b"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"영등포구","SGG_CD":"11190"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a871c"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"동작구","SGG_CD":"11200"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a871d"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"마포구","SGG_CD":"11140"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a871e"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"양천구","SGG_CD":"11150"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a871f"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"강서구","SGG_CD":"11160"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8720"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"관악구","SGG_CD":"11210"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8721"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"서초구","SGG_CD":"11220"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8722"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"강남구","SGG_CD":"11230"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8723"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"송파구","SGG_CD":"11240"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8724"},"SD_NM":"서울특별시","SD_CD":"11","SGG_NM":"강동구","SGG_CD":"11250"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8725"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"부산광역시","SGG_CD":"21000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8726"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"중구","SGG_CD":"21010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8727"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"서구","SGG_CD":"21020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8728"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"동구","SGG_CD":"21030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8729"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"영도구","SGG_CD":"21040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a872a"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"부산진구","SGG_CD":"21050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a872b"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"동래구","SGG_CD":"21060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a872c"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"남구","SGG_CD":"21070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a872d"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"북구","SGG_CD":"21080"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a872e"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"해운대구","SGG_CD":"21090"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a872f"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"사하구","SGG_CD":"21100"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8730"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"금정구","SGG_CD":"21110"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8731"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"연제구","SGG_CD":"21130"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8732"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"강서구","SGG_CD":"21120"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8733"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"대구광역시","SGG_CD":"22000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8734"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"기장군","SGG_CD":"21310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8735"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"중구","SGG_CD":"22010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8736"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"수영구","SGG_CD":"21140"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8737"},"SD_NM":"부산광역시","SD_CD":"21","SGG_NM":"사상구","SGG_CD":"21150"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8738"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"북구","SGG_CD":"22050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8739"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"수성구","SGG_CD":"22060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a873a"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"동구","SGG_CD":"22020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a873b"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"달서구","SGG_CD":"22070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a873c"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"달성군","SGG_CD":"22310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a873d"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"인천광역시","SGG_CD":"23000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a873e"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"중구","SGG_CD":"23010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a873f"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"서구","SGG_CD":"22030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8740"},"SD_NM":"대구광역시","SD_CD":"22","SGG_NM":"남구","SGG_CD":"22040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8741"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"동구","SGG_CD":"23020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8742"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"남구","SGG_CD":"23030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8743"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"연수구","SGG_CD":"23040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8744"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"서구","SGG_CD":"23080"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8745"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"강화군","SGG_CD":"23310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8746"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"옹진군","SGG_CD":"23320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8747"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"남동구","SGG_CD":"23050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8748"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"부평구","SGG_CD":"23060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8749"},"SD_NM":"인천광역시","SD_CD":"23","SGG_NM":"계양구","SGG_CD":"23070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a874a"},"SD_NM":"광주광역시","SD_CD":"24","SGG_NM":"광주광역시","SGG_CD":"24000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a874b"},"SD_NM":"광주광역시","SD_CD":"24","SGG_NM":"북구","SGG_CD":"24040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a874c"},"SD_NM":"광주광역시","SD_CD":"24","SGG_NM":"광산구","SGG_CD":"24050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a874d"},"SD_NM":"대전광역시","SD_CD":"25","SGG_NM":"대전광역시","SGG_CD":"25000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a874e"},"SD_NM":"대전광역시","SD_CD":"25","SGG_NM":"동구","SGG_CD":"25010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a874f"},"SD_NM":"대전광역시","SD_CD":"25","SGG_NM":"중구","SGG_CD":"25020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8750"},"SD_NM":"대전광역시","SD_CD":"25","SGG_NM":"서구","SGG_CD":"25030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8751"},"SD_NM":"대전광역시","SD_CD":"25","SGG_NM":"유성구","SGG_CD":"25040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8752"},"SD_NM":"대전광역시","SD_CD":"25","SGG_NM":"대덕구","SGG_CD":"25050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8753"},"SD_NM":"울산광역시","SD_CD":"26","SGG_NM":"울산광역시","SGG_CD":"26000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8754"},"SD_NM":"울산광역시","SD_CD":"26","SGG_NM":"중구","SGG_CD":"26010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8755"},"SD_NM":"울산광역시","SD_CD":"26","SGG_NM":"남구","SGG_CD":"26020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8756"},"SD_NM":"울산광역시","SD_CD":"26","SGG_NM":"동구","SGG_CD":"26030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8757"},"SD_NM":"울산광역시","SD_CD":"26","SGG_NM":"북구","SGG_CD":"26040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8758"},"SD_NM":"울산광역시","SD_CD":"26","SGG_NM":"울주군","SGG_CD":"26310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8759"},"SD_NM":"세종특별자치시","SD_CD":"29","SGG_NM":"세종특별자치시","SGG_CD":"29010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a875a"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"경기도","SGG_CD":"31000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a875b"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"수원시 장안구","SGG_CD":"31011"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a875c"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"수원시 권선구","SGG_CD":"31012"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a875d"},"SD_NM":"광주광역시","SD_CD":"24","SGG_NM":"동구","SGG_CD":"24010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a875e"},"SD_NM":"광주광역시","SD_CD":"24","SGG_NM":"서구","SGG_CD":"24020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a875f"},"SD_NM":"광주광역시","SD_CD":"24","SGG_NM":"남구","SGG_CD":"24030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8760"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"수원시 팔달구","SGG_CD":"31013"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8761"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"수원시 영통구","SGG_CD":"31014"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8762"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"성남시 수정구","SGG_CD":"31021"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8763"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"성남시 중원구","SGG_CD":"31022"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8764"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"성남시 분당구","SGG_CD":"31023"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8765"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"의정부시","SGG_CD":"31030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8766"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"안양시 동안구","SGG_CD":"31042"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8767"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"부천시 원미구","SGG_CD":"31051"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8768"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"안양시 만안구","SGG_CD":"31041"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8769"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"부천시 소사구","SGG_CD":"31052"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a876a"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"부천시 오정구","SGG_CD":"31053"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a876b"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"광명시","SGG_CD":"31060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a876c"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"안산시 단원구","SGG_CD":"31092"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a876d"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"고양시 덕양구","SGG_CD":"31101"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a876e"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"고양시 일산동구","SGG_CD":"31103"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a876f"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"고양시 일산서구","SGG_CD":"31104"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8770"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"과천시","SGG_CD":"31110"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8771"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"구리시","SGG_CD":"31120"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8772"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"남양주시","SGG_CD":"31130"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8773"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"오산시","SGG_CD":"31140"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8774"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"시흥시","SGG_CD":"31150"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8775"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"군포시","SGG_CD":"31160"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8776"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"의왕시","SGG_CD":"31170"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8777"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"하남시","SGG_CD":"31180"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8778"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"동두천시","SGG_CD":"31080"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8779"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"안산시 상록구","SGG_CD":"31091"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a877a"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"평택시","SGG_CD":"31070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a877b"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"용인시 처인구","SGG_CD":"31191"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a877c"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"이천시","SGG_CD":"31210"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a877d"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"안성시","SGG_CD":"31220"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a877e"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"용인시 수지구","SGG_CD":"31193"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a877f"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"화성시","SGG_CD":"31240"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8780"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"광주시","SGG_CD":"31250"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8781"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"양주시","SGG_CD":"31260"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8782"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"포천시","SGG_CD":"31270"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8783"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"여주군","SGG_CD":"31320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8784"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"용인시 기흥구","SGG_CD":"31192"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8785"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"연천군","SGG_CD":"31350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8786"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"가평군","SGG_CD":"31370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8787"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"양평군","SGG_CD":"31380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8788"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"강원도","SGG_CD":"32000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8789"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"춘천시","SGG_CD":"32010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a878a"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"원주시","SGG_CD":"32020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a878b"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"파주시","SGG_CD":"31200"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a878c"},"SD_NM":"경기도","SD_CD":"31","SGG_NM":"김포시","SGG_CD":"31230"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a878d"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"삼척시","SGG_CD":"32070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a878e"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"속초시","SGG_CD":"32060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a878f"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"홍천군","SGG_CD":"32310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8790"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"횡성군","SGG_CD":"32320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8791"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"영월군","SGG_CD":"32330"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8792"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"평창군","SGG_CD":"32340"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8793"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"강릉시","SGG_CD":"32030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8794"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"철원군","SGG_CD":"32360"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8795"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"정선군","SGG_CD":"32350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8796"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"양구군","SGG_CD":"32380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8797"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"인제군","SGG_CD":"32390"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8798"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"고성군","SGG_CD":"32400"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8799"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"화천군","SGG_CD":"32370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a879a"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"양양군","SGG_CD":"32410"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a879b"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"태백시","SGG_CD":"32050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a879c"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"충청북도","SGG_CD":"33000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a879d"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"청주시 흥덕구","SGG_CD":"33012"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a879e"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"제천시","SGG_CD":"33030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a879f"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"청원군","SGG_CD":"33310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a0"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"충주시","SGG_CD":"33020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a1"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"보은군","SGG_CD":"33320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a2"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"청주시 상당구","SGG_CD":"33011"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a3"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"옥천군","SGG_CD":"33330"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a4"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"영동군","SGG_CD":"33340"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a5"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"음성군","SGG_CD":"33370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a6"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"단양군","SGG_CD":"33380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a7"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"증평군","SGG_CD":"33390"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a8"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"충청남도","SGG_CD":"34000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87a9"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"천안시 동남구","SGG_CD":"34011"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87aa"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"천안시 서북구","SGG_CD":"34012"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ab"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"공주시","SGG_CD":"34020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ac"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"보령시","SGG_CD":"34030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ad"},"SD_NM":"강원도","SD_CD":"32","SGG_NM":"동해시","SGG_CD":"32040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ae"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"논산시","SGG_CD":"34060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87af"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"금산군","SGG_CD":"34310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b0"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"부여군","SGG_CD":"34330"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b1"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"서산시","SGG_CD":"34050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b2"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"당진시","SGG_CD":"34080"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b3"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"계룡시","SGG_CD":"34070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b4"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"서천군","SGG_CD":"34340"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b5"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"태안군","SGG_CD":"34380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b6"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"진천군","SGG_CD":"33350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b7"},"SD_NM":"충청북도","SD_CD":"33","SGG_NM":"괴산군","SGG_CD":"33360"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b8"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"홍성군","SGG_CD":"34360"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87b9"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"전라북도","SGG_CD":"35000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ba"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"전주시 완산구","SGG_CD":"35011"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87bb"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"아산시","SGG_CD":"34040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87bc"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"전주시 덕진구","SGG_CD":"35012"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87bd"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"군산시","SGG_CD":"35020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87be"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"익산시","SGG_CD":"35030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87bf"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"예산군","SGG_CD":"34370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c0"},"SD_NM":"충청남도","SD_CD":"34","SGG_NM":"청양군","SGG_CD":"34350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c1"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"완주군","SGG_CD":"35310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c2"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"진안군","SGG_CD":"35320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c3"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"장수군","SGG_CD":"35340"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c4"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"임실군","SGG_CD":"35350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c5"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"고창군","SGG_CD":"35370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c6"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"부안군","SGG_CD":"35380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c7"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"순창군","SGG_CD":"35360"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c8"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"무주군","SGG_CD":"35330"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87c9"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"전라남도","SGG_CD":"36000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ca"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"목포시","SGG_CD":"36010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87cb"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"순천시","SGG_CD":"36030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87cc"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"담양군","SGG_CD":"36310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87cd"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"나주시","SGG_CD":"36040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ce"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"광양시","SGG_CD":"36060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87cf"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"곡성군","SGG_CD":"36320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d0"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"구례군","SGG_CD":"36330"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d1"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"여수시","SGG_CD":"36020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d2"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"보성군","SGG_CD":"36360"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d3"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"정읍시","SGG_CD":"35040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d4"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"남원시","SGG_CD":"35050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d5"},"SD_NM":"전라북도","SD_CD":"35","SGG_NM":"김제시","SGG_CD":"35060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d6"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"화순군","SGG_CD":"36370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d7"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"장흥군","SGG_CD":"36380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d8"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"고흥군","SGG_CD":"36350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87d9"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"함평군","SGG_CD":"36430"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87da"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"무안군","SGG_CD":"36420"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87db"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"영광군","SGG_CD":"36440"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87dc"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"완도군","SGG_CD":"36460"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87dd"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"강진군","SGG_CD":"36390"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87de"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"영암군","SGG_CD":"36410"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87df"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"신안군","SGG_CD":"36480"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e0"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"진도군","SGG_CD":"36470"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e1"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"포항시 남구","SGG_CD":"37011"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e2"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"경주시","SGG_CD":"37020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e3"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"김천시","SGG_CD":"37030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e4"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"해남군","SGG_CD":"36400"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e5"},"SD_NM":"전라남도","SD_CD":"36","SGG_NM":"장성군","SGG_CD":"36450"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e6"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"경상북도","SGG_CD":"37000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e7"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"영주시","SGG_CD":"37060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e8"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"영천시","SGG_CD":"37070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87e9"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"상주시","SGG_CD":"37080"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ea"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"문경시","SGG_CD":"37090"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87eb"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"경산시","SGG_CD":"37100"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ec"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"군위군","SGG_CD":"37310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ed"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"의성군","SGG_CD":"37320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ee"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"청송군","SGG_CD":"37330"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ef"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"영양군","SGG_CD":"37340"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f0"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"영덕군","SGG_CD":"37350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f1"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"청도군","SGG_CD":"37360"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f2"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"고령군","SGG_CD":"37370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f3"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"성주군","SGG_CD":"37380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f4"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"칠곡군","SGG_CD":"37390"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f5"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"예천군","SGG_CD":"37400"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f6"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"봉화군","SGG_CD":"37410"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f7"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"울진군","SGG_CD":"37420"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f8"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"경상남도","SGG_CD":"38000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87f9"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"안동시","SGG_CD":"37040"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87fa"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"포항시 북구","SGG_CD":"37012"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87fb"},"SD_NM":"경상북도","SD_CD":"37","SGG_NM":"구미시","SGG_CD":"37050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87fc"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"진주시","SGG_CD":"38030"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87fd"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"통영시","SGG_CD":"38050"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87fe"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"사천시","SGG_CD":"38060"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a87ff"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"김해시","SGG_CD":"38070"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8800"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"밀양시","SGG_CD":"38080"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8801"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"거제시","SGG_CD":"38090"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8802"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"창원시 의창구","SGG_CD":"38111"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8803"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"양산시","SGG_CD":"38100"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8804"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"창원시 성산구","SGG_CD":"38112"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8805"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"창원시 마산합포구","SGG_CD":"38113"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8806"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"창원시 마산회원구","SGG_CD":"38114"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8807"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"창원시 진해구","SGG_CD":"38115"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8808"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"고성군","SGG_CD":"38340"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8809"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"남해군","SGG_CD":"38350"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a880a"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"하동군","SGG_CD":"38360"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a880b"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"함양군","SGG_CD":"38380"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a880c"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"거창군","SGG_CD":"38390"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a880d"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"산청군","SGG_CD":"38370"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a880e"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"의령군","SGG_CD":"38310"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a880f"},"SD_NM":"제주특별자치도","SD_CD":"39","SGG_NM":"제주특별자치도","SGG_CD":"39000"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8810"},"SD_NM":"제주특별자치도","SD_CD":"39","SGG_NM":"제주시","SGG_CD":"39010"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8811"},"SD_NM":"제주특별자치도","SD_CD":"39","SGG_NM":"서귀포시","SGG_CD":"39020"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8812"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"함안군","SGG_CD":"38320"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8813"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"창녕군","SGG_CD":"38330"}
+{"_id":{"$oid":"5c11fe9dc02b5bec3b5a8814"},"SD_NM":"경상남도","SD_CD":"38","SGG_NM":"합천군","SGG_CD":"38400"}

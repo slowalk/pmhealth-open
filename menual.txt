@@ -1,0 +1,77 @@
+// 미세먼지 요청 ex
+http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getCtprvnMesureLIst?itemCode=PM25&dataGubun=HOUR&searchCondition=WEEK&_returnType=json&searchDate=2019-01-17&ServiceKey=uli5s4YKkNamXssKH%2FD2OiSV4AJrpTxKUybRCPVw8a3a3yxKNo5PZMQVb4HBDqLeaYXLxV1r147EcFhRkPiBLg%3D%3D
+
+docker run --rm --link f09fe57ad232:mongo --net pmhealthmevn_default -v /home/dave/app/pmhealth-mevn/mongo-seed:/data/add mongo bash -c 'mongoimport -d pmhealth -c overalldeathsggs --file /data/add/20181226_overalldeathsggs.json --host mongo:27017'
+
+## 데이터베이스 컬럼 설명
+sdmaps : 한 컬렉션 안에 하나의 시도 전부 다 들어있음
+sggmaps : 한 컬렉션 안에 하나의 시군구 전부 다 들어있음
+sggmap_groups : zoom 5일때 경기도 남부, 북부 / 강남, 강북 으로 나눠져 있고 나머지 시군구들은 그대로 보임.
+sggmaps_divided_by_sgg : 모든 시군구가 251개 row로 나눠져있음
+sggmaps_sgg_sd : 모든 시군구가 시도 기준으로 묶여서 17개 row의 데이터가 있음.
+
+
+### 데이터 넣을 때(import) 타입형 체크해야함.
+
+
+docker run --rm --link 5adb1be5b21f:mongo --net pmhealthmevn_default -v /home/dave/app/pmhealth-mevn/mongo-seed:/data/add mongo bash -c 'mongoimport -d pmhealth -c sdmaps --file /data/add/bnd_sigungu_00_2012_filter_simple_0_5.json --host mongo:27017'
+mapshaper -i bnd_sido_00_2016_filter.shp encoding=euc-kr simplify weighted 0.5% -o format=shapefile bnd_sido_00_2016_filter_simple_0_5.shp
+
+# GIS 데이터 변환
+mapshaper -i bnd_sido_00_2016_filter.shp encoding=euc-kr  -simplify weighted 1% -o format=shapefile bnd_sido_00_2016_filter_simple_1.shp 
+ogr2ogr -f GeoJSON bnd_sido_00_2016_1.json  -t_srs crs:84 bnd_sido_00_2016_filter_simple_1.shp
+
+// mongoimport -d pmhealth -c overalldeathsggs --type csv --headerline overall_death_SGG_PM2_5_filter.csv
+
+## 설문 데이터 추출 (실서버에서)
+docker run --rm --link mongo:mongo --net pmhealthmevn_default -v /home/dave/app/pmhealth-mevn/backup:/data/backup mongo bash -c 'mongodump --out /data/backup --host mongo:27017'
+
+## 실섭 몽고디비 접근
+docker exec -it mongo '/bin/bash'
+
+seeds 폴더에서 
+find . -regex '.*/[^/]*.json' | xargs -L 1 mongoimport --db pmhealth --collection SggMap  --file
+명령어로 mongodb에 데이터 파일 넣기
+
+## Docker
+# 이미지 빌딩
+docker build -t 'pmhealth-mevn_app' .
+
+# 컨테이너 실행
+docker run -d -P --name pmhealth-mevn_app pmhealth-mevn_app
+
+# inspect
+docker inspect --format ‘{{ .NetworkSettings.IPAddress }}’ test_pmhealth
+
+# 포트 확인
+docker port test_pmhealth 8080
+
+# 주의
+WARNING: Image for service backend was built because it did not already exist. To rebuild this image you must use `docker-compose build` or `docker-compose up --build`.
+Building front
+
+## 데이터 가공
+google 시트에서 =IF(AND(시도명이 동일한지, 시군구명이 동일한지), 해당셀주소, "xx")
+
+
+## 설문 데이터 추출 (실서버에서)
+docker run --rm --link mongo:mongo --net pmhealthmevn_default -v /home/dave/app/pmhealth-mevn/backup:/data/backup mongo bash -c 'mongodump --out /data/backup --host mongo:27017'
+
+## Filezilla 로 덤핑한 폴더 가져와서 로컬디비에 복원
+mongorestore
+
+## 데이터 추출
+mongoexport -d pmhealth_dump -c users -f email,model,sd_nm,created_at,start_at,end_at,age,gender,belong,marriage,kid,health,handicap,handicapReason,handicapReasonETC,health2weaksAgo,health2weaksAgoNumber,cigar,cigarOneDay,cigarOneMonth,cigarStopDay,challenge,challengeNonStop,alcohol,mersc,radiation,nd,sd,pd,cd,merscDeep,radiationDeep,ndDeep,sdDeep,pdDeep,cdDeep,infoType,preferInfoType,customInfo,customHealthInfo,understandExpert,understandNumber,infoSource,infoSourceETC,compareHealth,dustDamage,dust2017Gov,dustReact,airKorea,obl,oftenSearch,realAction,howOftenAction,isThatEffect,difficulty,trust,interest,interestETC,enough,rightExplain,test1,test2,test3,model1_myLocAverAirPol,model1_locAverAirPol,model1_useful,model1_difficulty,model1_search,model1_riskDeep,model1_afterIncrease,model1_action,model2_myLocAverAirPol,model2_locAverAirPol,model2_myLocAd,model2_locAd,model2_useful,model2_difficulty,model2_search,model2_riskDeep,model2_afterIncrease,model2_action -q '{"end_at": {"$nin": [[], "test"]}}' --sort "{model: 1}" --type=csv --out surveyResult.csv
+
+    # 공통질문
+    age,gender,belong,marriage,kid,health,handicap,handicapReason,handicapReasonETC,health2weaksAgo,health2weaksAgoNumber,cigar,cigarOneDay,cigarOneMonth,cigarStopDay,challenge,challengeNonStop,alcohol,mersc,radiation,nd,sd,pd,cd,merscDeep,radiationDeep,ndDeep,sdDeep,pdDeep,cdDeep,infoType,preferInfoType,customInfo,customHealthInfo,understandExpert,understandNumber,infoSource,infoSourceETC,compareHealth,dustDamage,dust2017Gov,dustReact,airKorea,obl,oftenSearch,realAction,howOftenAction,isThatEffect,difficulty,trust,interest,interestETC,enough,rightExplain,test1,test2,test3,
+    
+    # 모델 질문
+    model1_myLocAverAirPol,model1_locAverAirPol,model1_useful,model1_difficulty,model1_search,model1_riskDeep,model1_afterIncrease,model1_action,
+    
+    # 모델' 질문
+    model2_myLocAverAirPol,model2_locAverAirPol,model2_myLocAd,model2_locAd,model2_useful,model2_difficulty,model2_search,model2_riskDeep,model2_afterIncrease,model2_action,
+
+## 설문 데이터 추출 (실서버에서)
+docker run --rm --link mongo:mongo --net pmhealthmevn_default -v /home/dave/app/pmhealth-mevn/backup:/data/backup mongo bash -c 'mongodump --out /data/backup --host mongo:27017'
+docker run --rm --link 01e539f0385f:mongo --net newstrust_default -v /home/dave/app/pmhealth-mevn/backup:/data/backup mongo bash -c 'mongodump --db ntrust2 -c crawling --out /data/backup --host mongo:27017'

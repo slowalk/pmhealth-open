@@ -1,0 +1,172 @@
+[
+  {
+    "cities_provinces": "Seoul",
+    "SD_CD": 11,
+    "kor_cities_provinces": "서울",
+    "ANNUAL_PM2_5": 24.2,
+    "burden": 1763.4,
+    "benefit": 1252.5,
+    "today_PM2_5": 25,
+    "today_assess": "보통"
+  },
+  {
+    "cities_provinces": "Busan",
+    "SD_CD": 21,
+    "kor_cities_provinces": "부산",
+    "ANNUAL_PM2_5": 25.9,
+    "burden": 947.4,
+    "benefit": 675.5,
+    "today_PM2_5": 63,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Daegu",
+    "SD_CD": 22,
+    "kor_cities_provinces": "대구",
+    "ANNUAL_PM2_5": 24.9,
+    "burden": 671.9,
+    "benefit": 474.7,
+    "today_PM2_5": 16,
+    "today_assess": "보통"
+  },
+  {
+    "cities_provinces": "Incheon",
+    "SD_CD": 23,
+    "kor_cities_provinces": "인천",
+    "ANNUAL_PM2_5": 27.6,
+    "burden": 309.4,
+    "benefit": 234.3,
+    "today_PM2_5": 76,
+    "today_assess": "매우 나쁨"
+  },
+  {
+    "cities_provinces": "Gwangju",
+    "SD_CD": 24,
+    "kor_cities_provinces": "광주",
+    "ANNUAL_PM2_5": 24.1,
+    "burden": 656.8,
+    "benefit": 492,
+    "today_PM2_5": 40,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Daejeon",
+    "SD_CD": 25,
+    "kor_cities_provinces": "대전",
+    "ANNUAL_PM2_5": 27.2,
+    "burden": 342.2,
+    "benefit": 244.6,
+    "today_PM2_5": 76,
+    "today_assess": "매우 나쁨"
+  },
+  {
+    "cities_provinces": "Ulsan",
+    "SD_CD": 26,
+    "kor_cities_provinces": "울산",
+    "ANNUAL_PM2_5": 24.6,
+    "burden": 222.3,
+    "benefit": 160.3,
+    "today_PM2_5": 75,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Sejong",
+    "SD_CD": 29,
+    "kor_cities_provinces": "세종",
+    "ANNUAL_PM2_5": 27.7,
+    "burden": 49.2,
+    "benefit": 36.9,
+    "today_PM2_5": 68,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Gyeonggi",
+    "SD_CD": 31,
+    "kor_cities_provinces": "경기",
+    "ANNUAL_PM2_5": 25,
+    "burden": 2352.3,
+    "benefit": 1683.2,
+    "today_PM2_5": 28,
+    "today_assess": "보통"
+  },
+  {
+    "cities_provinces": "Gangwon",
+    "SD_CD": 32,
+    "kor_cities_provinces": "강원",
+    "ANNUAL_PM2_5": 10.6,
+    "burden": 442.7,
+    "benefit": 302.8,
+    "today_PM2_5": 76,
+    "today_assess": "매우 나쁨"
+  },
+  {
+    "cities_provinces": "Chungbuk",
+    "SD_CD": 33,
+    "kor_cities_provinces": "충북",
+    "ANNUAL_PM2_5": 26.4,
+    "burden": 403.4,
+    "benefit": 301.5,
+    "today_PM2_5": 39,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Chungnam",
+    "SD_CD": 34,
+    "kor_cities_provinces": "충남",
+    "ANNUAL_PM2_5": 25.8,
+    "burden": 577.9,
+    "benefit": 421.6,
+    "today_PM2_5": 70,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Jeollabu",
+    "SD_CD": 35,
+    "kor_cities_provinces": "전북",
+    "ANNUAL_PM2_5": 29.1,
+    "burden": 638.2,
+    "benefit": 495.8,
+    "today_PM2_5": 35,
+    "today_assess": "보통"
+  },
+  {
+    "cities_provinces": "Jeollana",
+    "SD_CD": 36,
+    "kor_cities_provinces": "전남",
+    "ANNUAL_PM2_5": 22.4,
+    "burden": 633.6,
+    "benefit": 433.4,
+    "today_PM2_5": 70,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Gyeongbu",
+    "SD_CD": 37,
+    "kor_cities_provinces": "경북",
+    "ANNUAL_PM2_5": 21.6,
+    "burden": 885.3,
+    "benefit": 609,
+    "today_PM2_5": 76,
+    "today_assess": "매우 나쁨"
+  },
+  {
+    "cities_provinces": "Gyeongna",
+    "SD_CD": 38,
+    "kor_cities_provinces": "경남",
+    "ANNUAL_PM2_5": 25,
+    "burden": 963.4,
+    "benefit": 692.5,
+    "today_PM2_5": 42,
+    "today_assess": "나쁨"
+  },
+  {
+    "cities_provinces": "Jeju",
+    "SD_CD": 39,
+    "kor_cities_provinces": "제주",
+    "ANNUAL_PM2_5": 13.6,
+    "burden": 64.4,
+    "benefit": 28.2,
+    "today_PM2_5": 27,
+    "today_assess": "보통"
+  }
+]

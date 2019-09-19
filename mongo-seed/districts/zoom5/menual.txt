@@ -1,0 +1,35 @@
+
+# 취급 지역
+zoom: 5일때의 시군구로 안보여주는 지역
+경기도 : 북부, 남부
+서울 : 강남, 강북
+부산
+대구
+인천
+
+
+청주, 대전 의 경우 zoom 5 에서 마커가 겹쳐서 위치조정이 필요.
+
+### 주의
+- pm2.5, overalldeath를 추가해줘야 해당 districts가 지도에 보임. mongo query로 JOIN하기에 반드시 있어야 지도에 distrcits를 가져옴
+
+데이터베이스 
+- geospatial 쿼리를 적용하려면 인덱싱은 반드시 
+// db.getCollection('sggmap_groups').createIndex({geometry:"2dsphere"})
+인덱싱을 걸어줘야함.
+
+
+## 지도데이터 
+- 경기도(북부, 남부), 서울(강남, 강북)은 QGIS로 병합함
+- GIS데이터는 몽고디비 sggmap_groups 컬렉션에 넣음.
+- 실제 데이터 쓸때는 sggmap_groups를 aggregate 함수로  pm25sggs & overalldeathsggs를 묶어서 데이터 가져오는 방식.
+즉, sggmap_groups가 데이터를 가져오는 지역기준이기 때문에 지역을 수정하고싶으면 디비를 수정해야함.
+- edit_for__sigungu_2012_0_5_divided_by_sgg_etc.js는 시군구로 불러오는 지역들만 따로 디비에 저장하기위한 장치임.
+- sdmaps_divided.json은 시도별 데이터임. 몽고쉘에서 직접 만듦.
+- districts폴더에 있는 지역들 넣어야함.
+
+## 변수데이터 (미세먼지, 초과사망자)
+- 병합한 지역의 데이터는 edit_for__zoom5_group_pm25_data.js, edit_for__zoom5_group_overalldeath_data.js에 표기된 방식으로 진행
+- 미세먼지 데이터는 몽고디비 pm25sggs 컬렉션에 넣음.
+- 초과사망자수 데이터는 몽고디비 overalldeathsggs 컬렉션에 넣음.
+

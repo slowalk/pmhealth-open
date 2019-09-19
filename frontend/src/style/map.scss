@@ -1,0 +1,96 @@
+.mapMarker {
+  opacity: 0.8;
+  text-align: center;
+  &.map-hover {
+    opacity: 1;
+  }
+  &.map-clicked {
+    opacity: 1;
+  }
+  &:hover {
+    opacity: 1;
+  }
+  .mapMarkerWrapperOver {
+    background-color: white;
+    position: absolute;
+    text-align: center;
+    border-radius: 50%;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    p.inCurcle {
+      line-height: 14px;
+      margin: 0px;
+      padding-top: 20px;
+      // color: rgba(255,255,255,0.8);
+    }
+    .title {
+      color: gray;
+      font-size: 10px;
+    }
+    .overdeath_value {    
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 20px;
+    }
+    img.warning {
+      width: 16px;
+    }
+    img.view {
+      width: 20px;
+      background-color: white;
+      border-radius: 50%;
+      border: solid 1px gray;
+      padding: 2px;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      pointer-events: fill;
+      &:hover {
+        background-color: #ddd;
+      }
+    }
+  }
+  .mapMarkerlabelWrapper { 
+    .label {
+      margin-top: -8px;
+      font-size: 13px;
+      border-radius: 12px;
+      display: table;
+      padding: 0px 6px;
+      margin: 3px auto;
+      &.top-label {
+        background-color: white;
+        color: black;
+      }
+      &.bottom-label {
+        background-color: #3a3b42;
+        color: white;
+      }
+    }
+  }
+  .mapMarkerWrapper {
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 5px 1px;
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    p {
+      line-height: 14px; 
+      margin: 0px;
+      font-size: 11px;
+      padding-top: 7px;
+      // color: rgba(255,255,255,0.8);
+    }
+  }
+  .airPolTooltipMarker {
+    padding:5px 10px;
+    background-color:#fff;
+    border:solid 2px #000;
+    font-size:14px;
+    width: 100px;
+    text-align: center;
+    z-index: 9900;
+    pointer-events: none;
+  }
+}

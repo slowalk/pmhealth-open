@@ -1,0 +1,46 @@
+version: "2"
+services:
+  mongo:
+    container_name: mongo
+    image: mongo
+    volumes:
+      # - ./data:/data/db
+      ## 배포용 
+      - /home/dave/app/pmhealth-mevn/data:/data/db 
+    ports:
+      - "3002:27017"
+  # mongo-seed:
+  #   build: ./mongo-seed
+  #   restart: on-failure
+  #   links:
+  #     - mongo
+  #   depends_on:
+  #     - mongo
+
+  backend:
+    container_name: pmhealth-backend
+    restart: on-failure
+    build: ./backend
+    working_dir: /usr/src/api
+    ports:
+      - "3000:3000"
+    links:
+      - mongo
+    depends_on:
+      - mongo
+
+  # ## 실제 배포서버에서는 frontend는 삭제.
+  # frontend:
+  #   container_name: pmhealth-frontend
+  #   image: nginx
+  #   restart: on-failure
+  #   volumes:
+  #       # - "./frontend/dist:/var/www/html"
+  #       - "./frontend/dist:/home/dave/apps/pmhealth-mevn/frontend/dist"
+  #       - "./frontend/nginx/default.conf:/etc/nginx/conf.d/default.conf"
+  #   ports:
+  #       # - "8080:80"
+  #       - "3001:80"
+  #       # backend/config/index.js home_url 포트 변경
+  #   depends_on:
+  #     - backend
